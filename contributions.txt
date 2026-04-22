@@ -1,0 +1,15 @@
+Sanogo Douyeri Lamoussa :
+
+- Conception du projet
+- Création de la classe Etudiant
+- Implémentation de la lecture du fichier CSV (LectureCSV)
+- Création et préparation du fichier notes.csv
+- Gestion des validations des données
+
+
+Traoré Mohamed Samba :
+
+- Implémentation du tri des étudiants (GestionNotes)
+- Création du menu interactif (Main)
+- Implémentation de la sauvegarde des résultats (SauvegardeCSV)
+- Tests et validation du programme
