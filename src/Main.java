@@ -30,7 +30,7 @@ public class Main {
             System.out.println("4. Afficher le meilleur étudiant");
             System.out.println("5. Sauvegarder les résultats dans un fichier CSV");
             System.out.println("0. Quitter");
-            System.out.print("Entrer votre choix : ");
+            System.out.print("Votre choix : ");
 
             // Vérifier que l'utilisateur entre un entier
             while (!scanner.hasNextInt()) {
