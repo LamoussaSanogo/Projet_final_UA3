@@ -56,6 +56,8 @@ Ce projet consiste à développer un programme Java permettant de :
 
 ## 🧱 Structure du projet
 
+Ce projet est structuré en cinq classes Java distinctes:
+
 * Main.java
 * Etudiant.java
 * LectureCSV.java
