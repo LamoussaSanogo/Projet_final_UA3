@@ -36,7 +36,7 @@ public class GestionNotes {
         }
     }
 
-// Calculer la moyenne générale de la classe
+    // Calculer la moyenne générale de la classe
     public static double calculerMoyenneClasse(ArrayList<Etudiant> etudiants) {
         if (etudiants.isEmpty()) {
             return 0;
@@ -68,4 +68,3 @@ public class GestionNotes {
         return meilleur;
     }
 }
-
