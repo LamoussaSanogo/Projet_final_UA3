@@ -3,9 +3,6 @@ import java.util.ArrayList;
 public class Etudiant {
 
     // Attributs privés
-    // etudiant : nom de l'étudiant
-    // cours : liste des cours
-    // notes : liste des notes correspondantes
     private String etudiant;
     private ArrayList<String> cours;
     private ArrayList<Double> notes;

@@ -1,15 +1,18 @@
+
+Contributions communes (réalisées en collaboration) :
+
+- Planification de la structure du projet
+- Définition des classes et de leurs rôles
+- Tests et validation du programme
+
 Sanogo Douyeri Lamoussa :
 
-- Conception du projet
-- Création de la classe Etudiant
-- Implémentation de la lecture du fichier CSV (LectureCSV)
-- Création et préparation du fichier notes.csv
-- Gestion des validations des données
-
+- Implémentation de la classe Etudiant.java
+- Implémentation de la classe LectureCSV.java
+- Implémentation de la classe GestionNotes.java
 
 Traoré Mohamed Samba :
 
-- Implémentation du tri des étudiants (GestionNotes)
-- Création du menu interactif (Main)
-- Implémentation de la sauvegarde des résultats (SauvegardeCSV)
-- Tests et validation du programme
+- Création et préparation du fichier notes.csv
+- Implémentation de la classe SauvegardeCSV.java
+- Implémentation du menu interactif dans Main.java

@@ -6,7 +6,7 @@
 
 ## 🏫 Établissement
 
-Collège La Cité – Collège d’arts appliqués et de technologie
+**Collège La Cité** – Collège d’arts appliqués et de technologie
 
 ---
 
@@ -94,12 +94,16 @@ rang,etudiant,moyenne
 
 Le programme permet de :
 
+## ⚙️ Fonctionnement du programme
+
+```text
 1. Afficher tous les étudiants
 2. Afficher le classement par moyenne
 3. Afficher la moyenne générale de la classe
 4. Afficher le meilleur étudiant
 5. Sauvegarder les résultats dans un fichier CSV
-6. Quitter
+0. Quititter
+```
 
 ---
 
