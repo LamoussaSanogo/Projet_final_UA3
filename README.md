@@ -96,7 +96,6 @@ rang,etudiant,moyenne
 
 Le programme permet de :
 
-## ⚙️ Fonctionnement du programme
 
 ```text
 1. Afficher tous les étudiants
